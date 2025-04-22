@@ -6,7 +6,7 @@
 - Provide drill-down insights by medical specialty and patient age profiles to support better healthcare planning and resource allocation.
 
 ## Dataset used
-- <a href=""></a>
+- <a href="https://github.com/Simran1028/Healthcare-Dashboard-PowerBI/tree/main/Data">Patient Waitlist-Dataset</a>
   
 ## Questions
 - 📊 How many patients are currently on the waitlist, and how does this compare to the previous year?
@@ -14,6 +14,7 @@
 - 👶🧓 How do age groups and time bands affect waitlist duration?
 - 🩺 Which specialties have the highest average or median waiting times?
 - 🕒 What is the distribution of wait times by archive date and how does it vary by case type?
+- Dashboard Interaction  <a href=""></a>
 
 ## Process
 - Data Source: Patient waitlist data including Archive Date, Case Type, Specialty, Age Profile, and Wait Time metrics.
