@@ -1,2 +1,6 @@
-# Healthcare
-This Power BI project presents an interactive dashboard designed to monitor and analyze patient waitlist data in a healthcare setting. The dashboard focuses on tracking the current status of waitlists, examining historical trends, and providing deep-dive insights based on patient age, specialty, and case type (Outpatient, Day Case, Inpatient).
+#  Patient Waitlist Analysis Dashboard - Power BI Project
+##  Objective
+- Track the current status of the patient waiting list.
+- Analyze historical trends in monthly waitlist volumes for Outpatient, Day Case, and Inpatient categories.
+- Provide drill-down insights by medical specialty and patient age profiles to support better healthcare planning and resource allocation.
+
