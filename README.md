@@ -14,7 +14,7 @@
 - 👶🧓 How do age groups and time bands affect waitlist duration?
 - 🩺 Which specialties have the highest average or median waiting times?
 - 🕒 What is the distribution of wait times by archive date and how does it vary by case type?
-- Dashboard Interaction  <a href=""></a>
+- Dashboard Interaction  <a href="https://github.com/Simran1028/Healthcare-Dashboard-PowerBI/blob/main/Screenshot%202025-04-23%20033707.png">View Dashboard</a>
 
 ## Process
 - Data Source: Patient waitlist data including Archive Date, Case Type, Specialty, Age Profile, and Wait Time metrics.
