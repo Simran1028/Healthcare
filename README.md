@@ -14,7 +14,7 @@
 - 👶🧓 How do age groups and time bands affect waitlist duration?
 - 🩺 Which specialties have the highest average or median waiting times?
 - 🕒 What is the distribution of wait times by archive date and how does it vary by case type?
-- Dashboard Interaction  <a href="https://github.com/Simran1028/Healthcare-Dashboard-PowerBI/blob/main/Screenshot%202025-04-23%20033707.png">View Dashboard</a>
+- Dashboard Interaction  <a href="https://github.com/Simran1028/Healthcare-Dashboard-PowerBI/blob/main/Screenshot%202025-04-23%20041535.png">View Dashboard</a>
 
 ## Process
 - Data Source: Patient waitlist data including Archive Date, Case Type, Specialty, Age Profile, and Wait Time metrics.
@@ -30,7 +30,8 @@
       - Bar charts for waitlist by time bands and age profiles.
       - Line graphs for time series analysis.
       - Drill-down table for detailed breakdowns by specialty and age.
-
+## Dashboard
+!["C:\Users\simra\Desktop\powerbi-health\Screenshot 2025-04-23 041535.png"]
 ## Project Insights
 - Outpatient cases dominate the waitlist, forming over 70% of the total, with the remainder split between day cases and inpatient care.
 - The longest wait times were observed in older age bands (65+) and for certain specialties like Cardiology.
