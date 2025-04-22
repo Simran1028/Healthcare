@@ -30,8 +30,10 @@
       - Bar charts for waitlist by time bands and age profiles.
       - Line graphs for time series analysis.
       - Drill-down table for detailed breakdowns by specialty and age.
+        
 ## Dashboard
-!["C:\Users\simra\Desktop\powerbi-health\Screenshot 2025-04-23 041535.png"]
+![]
+
 ## Project Insights
 - Outpatient cases dominate the waitlist, forming over 70% of the total, with the remainder split between day cases and inpatient care.
 - The longest wait times were observed in older age bands (65+) and for certain specialties like Cardiology.
