@@ -32,7 +32,7 @@
       - Drill-down table for detailed breakdowns by specialty and age.
         
 ## Dashboard
-![]
+![Screenshot 2025-04-23 041535](https://github.com/user-attachments/assets/52eda738-802c-4e60-ba8a-9d24174df364)
 
 ## Project Insights
 - Outpatient cases dominate the waitlist, forming over 70% of the total, with the remainder split between day cases and inpatient care.
