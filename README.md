@@ -22,9 +22,23 @@
     - Data Modeling: Created relationships between archive date, patient categories, and specialty tables.
 
     - Visualizations:
-      -- KPIs for current vs previous month waitlist.
-      -- Pie chart for case type distribution.
-      -- Bar charts for waitlist by time bands and age profiles.
-      -- Line graphs for time series analysis.
-      -- Drill-down table for detailed breakdowns by specialty and age.
+      - KPIs for current vs previous month waitlist.
+      - Pie chart for case type distribution.
+      - Bar charts for waitlist by time bands and age profiles.
+      - Line graphs for time series analysis.
+      - Drill-down table for detailed breakdowns by specialty and age.
+
+## Project Insights
+- Outpatient cases dominate the waitlist, forming over 70% of the total, with the remainder split between day cases and inpatient care.
+- The longest wait times were observed in older age bands (65+) and for certain specialties like Cardiology.
+- Historical data shows a gradual increase in outpatient waitlists starting mid-2019, peaking around 2021.
+- Certain specialties (e.g., Clinical Immunology, Cardio-Thoracic Surgery) experience relatively higher average wait times, indicating potential bottlenecks or under-resourced departments.
+- The dashboard’s filters enable dynamic exploration of the waitlist by date range, specialty, case type, age group, and time bands.
+
+## Final Conclusion
+This dashboard delivers a comprehensive and interactive overview of patient waiting lists across multiple dimensions. It helps healthcare administrators and policymakers:
+
+- Monitor capacity and backlog.
+- Allocate resources to high-wait areas.
+- Identify trends in specific specialties or age groups for strategic decision-making.
 
